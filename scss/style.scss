@@ -1,0 +1,15 @@
+/*!
+Theme Name: wp-helpdev
+Theme URI: http://underscores.me/
+Author: Murilo Eduardo dos Santos
+Author URI: https://www.facebook.com/muriloeduardo.dossantos
+Description: Theme created specially for this site.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: helpdevme
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+*/
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import './modules/accessibility';
